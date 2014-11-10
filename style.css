@@ -8,4 +8,5 @@ a {
 .myname {
   text-align: left;
   font-size: 4em;
+  border-left: 1px whitesmoke solid;
 }
